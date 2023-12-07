@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0d5caea-557f-4270-b0e2-610dea6c0c0a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/securityFlows/CrossSiteScriptingTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/securityFlows/SQLInjectionTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RADemo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RADemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RADemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RADemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RADemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RADemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RADemo/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RADemo/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RADemo/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RADemo/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RSPractice/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RSPractice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RSPractice/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RSPractice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RSPractice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RSPractice/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RSPractice/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RSPractice/src/main/java/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAsssuredDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAsssuredDemo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/abnamro/assignment/SampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/allure.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/allure.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2Z5sSFI2PIw9L1vrMVLd0smn5v1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "feature/add__gitlab__IssuesAPI__tests",
+    "last_directory_selection": "/Users/suhila/work/restAssured/QA_BE_Assignment/src/test/java",
+    "last_opened_file_path": "/Users/suhila/work/restAssured/QA_BE_Assignment/src/test/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.SQLInjectionTests">
+    <configuration name="CrossSiteScriptingTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA_BE_Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="securityFlows.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="securityFlows" />
+      <option name="MAIN_CLASS_NAME" value="securityFlows.CrossSiteScriptingTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrossSiteScriptingTests.addNewIssueWithXSSInTitle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA_BE_Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="securityFlows.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="securityFlows" />
+      <option name="MAIN_CLASS_NAME" value="securityFlows.CrossSiteScriptingTests" />
+      <option name="METHOD_NAME" value="addNewIssueWithXSSInTitle" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SQLInjectionTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA_BE_Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="securityFlows.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="securityFlows" />
+      <option name="MAIN_CLASS_NAME" value="securityFlows.SQLInjectionTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SQLInjectionTests.addNewIssueWithSQLScriptInTitle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA_BE_Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="securityFlows.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="securityFlows" />
+      <option name="MAIN_CLASS_NAME" value="securityFlows.SQLInjectionTests" />
+      <option name="METHOD_NAME" value="addNewIssueWithSQLScriptInTitle" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SQLInjectionTests.addNewIssueWithXSSInTitle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA_BE_Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="securityFlows.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="securityFlows" />
+      <option name="MAIN_CLASS_NAME" value="securityFlows.SQLInjectionTests" />
+      <option name="METHOD_NAME" value="addNewIssueWithXSSInTitle" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SQLInjectionTests" />
+        <item itemvalue="TestNG.SQLInjectionTests.addNewIssueWithSQLScriptInTitle" />
+        <item itemvalue="TestNG.CrossSiteScriptingTests.addNewIssueWithXSSInTitle" />
+        <item itemvalue="TestNG.SQLInjectionTests.addNewIssueWithXSSInTitle" />
+        <item itemvalue="TestNG.CrossSiteScriptingTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0d5caea-557f-4270-b0e2-610dea6c0c0a" name="Changes" comment="" />
+      <created>1701723274613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701723274613</updated>
+      <workItem from="1701723275900" duration="9036000" />
+      <workItem from="1701735395635" duration="56537000" />
+      <workItem from="1701890139822" duration="8319000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
